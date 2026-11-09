@@ -10,7 +10,7 @@ The platform connects a mobile wallet application with merchant POS terminals th
 
 The platform consists of two main applications connected through a backend API:
 
-![MobileAPP](profile/app_designs.png)
+![MobileAPP](app_designs.png)
 
 - **Mobile Application** — Allows users to manage their wallets, view transactions, top up their balances, and authorize POS payments using QR codes.
 - **Backend API** — Handles authentication, wallet operations, payment processing, transaction management, and external payment provider integrations.
